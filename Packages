@@ -1701,3 +1701,292 @@ SHA512: 8af0520de6fd9141d26480691bde891af134eaad6b1b33eabaaf3d696ce4382446fdd243
 Description: 分屏，不必太复杂，一切从简即可。
 Name: floatingView
 Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3292
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-2_iphoneos-arm64_4b91c746e48fdd656f24c1ac2bce61c3613aa5130a57f3b79846eee2501a5f7b.deb
+Size: 636806
+MD5sum: 758e565687bcd38b1dca716bdb7e955a
+SHA1: 127a78151a1a546ed324223932e29ac880f8e53e
+SHA256: 4b91c746e48fdd656f24c1ac2bce61c3613aa5130a57f3b79846eee2501a5f7b
+SHA512: c0c622e13b85007e23da2672cb700d7bdaa5e8cb84657631f5c5f779cf5166705a62b67bb2f2fc630b4d0b55007ba047a092bd01f8b6f0226188f2fd9b511454
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3276
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-3_iphoneos-arm64_d5af6d81a33f85aec8197ca8fe9b8733f04a95ae7930e309c401d4c83d7cd4d9.deb
+Size: 636498
+MD5sum: 0c6e4625fc519929da575588deddcbde
+SHA1: 7e3deb78a511859537f31e42f209b75c64928132
+SHA256: d5af6d81a33f85aec8197ca8fe9b8733f04a95ae7930e309c401d4c83d7cd4d9
+SHA512: 207d34d5da924666e5969352f648109c39b9622eeee747cec65ef1ed09e6042e92f6abd7c6018965e725dc045b97f4030c4553a9b18fdd276c68ab985b18459b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3356
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-4_iphoneos-arm64_15efa85ce56a7132689641af0d6e5649cd8c27492128c5143ec0c2e5142e8c08.deb
+Size: 653620
+MD5sum: e92c96e07b3768a06a0e7ab0a5b34909
+SHA1: 3c2d6058a8ad9bca63d719e1544a6b66420f97d5
+SHA256: 15efa85ce56a7132689641af0d6e5649cd8c27492128c5143ec0c2e5142e8c08
+SHA512: 7c885625e337ba097fd30fc47945286f9033135f1734d621ed38d7611b2eedbeab668933e0b8d658fb2614cca58e6231c5834a47fa8415115493f74599951484
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-5_iphoneos-arm64_a9d2c81b33dfb3e88204aedab8676df74e257c76a29976c1724717a722fc7ca0.deb
+Size: 655604
+MD5sum: bd4ba824a8768e2e9356969ede40d6fc
+SHA1: 13dcb135cd39aa09e35a611494441809a3799523
+SHA256: a9d2c81b33dfb3e88204aedab8676df74e257c76a29976c1724717a722fc7ca0
+SHA512: a1cca75355abe45d18c1f4236acecb480beacb671c62bb6fc0a52d6c10e3d1de6f4ccab29c73ce88d3817d14e710cd628791017242b862ea1145178b9f02b85b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-6_iphoneos-arm64_6f3db80709033627d70defb610967261fc6b99e6c592dca23fb3519839c693a8.deb
+Size: 655676
+MD5sum: 15422ebbc60df643389b4ffd29c8eed7
+SHA1: 51a26abfe4950d6460518815ef137c65c3dc3937
+SHA256: 6f3db80709033627d70defb610967261fc6b99e6c592dca23fb3519839c693a8
+SHA512: c76979bfead13b5a656a9cb35c400ea65ce944e055c59106d648548347af6abfb4b48f3abd819efc1bcc1df63326191141dd7a452dedea301ab56da27574c40e
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3344
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-7_iphoneos-arm64_f9960c591c37dd048785b828d4c1e297eae13ba74c7b52f51f02bdff9c10cb03.deb
+Size: 654356
+MD5sum: f14db3f3c141552e2b8f03021f80feef
+SHA1: 4414089516a6ab5649a06c4eafb4ac4e140b6fa8
+SHA256: f9960c591c37dd048785b828d4c1e297eae13ba74c7b52f51f02bdff9c10cb03
+SHA512: 265151cccb08c0b46032686d60cee4c841d22f051a686f88c297c517f359e629467264532d8c68238c428965ee7121177f545c288766e5cc7b5268597375cc7a
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3356
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-8_iphoneos-arm64_880f85250640756624b15ed75e35713abd4ae004a734d4fa0522e77b00c66dbe.deb
+Size: 657858
+MD5sum: 37c263475e558156c795b2a3ca4ff9ca
+SHA1: 1dfac915fb409c1d172df705390809d6eca42ce4
+SHA256: 880f85250640756624b15ed75e35713abd4ae004a734d4fa0522e77b00c66dbe
+SHA512: 4c8f1c06ad1f9343c06e3e8940db35071a97819531e152516b68f5b18685f53347efc44221c69b2d0020bc9fc97ab0f4723d7e03a231e3e8f9c4b796e8a7afb5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.8-9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-9_iphoneos-arm64_fcbd710d80cb8a09254475e66df7766df9ed5fc534dee26a54d2c3331e71a1ff.deb
+Size: 664878
+MD5sum: ad410d541c12242d5fedc7098571a56d
+SHA1: 96b04b1cb28e434d934b31553f3775cf7aed3290
+SHA256: fcbd710d80cb8a09254475e66df7766df9ed5fc534dee26a54d2c3331e71a1ff
+SHA512: 80d47f52260924956610cf51eb2ae52d0584a163b55d4e20e43aadc1030b9e061683b6b4f5beeb5e288742ecd1f4c5c952f604fa49a83ef8c4b6798bac0f1afe
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.5.9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3392
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.5.9_iphoneos-arm64_2028a09c6b56f552b7ee6a70d1154d9cf681dfb1de759925f5ca34c646747c57.deb
+Size: 669812
+MD5sum: 2f46d2a0cab2681d12614aba7ab70a52
+SHA1: 2e714a90def32fe9840d425ff791d5ad451dd83e
+SHA256: 2028a09c6b56f552b7ee6a70d1154d9cf681dfb1de759925f5ca34c646747c57
+SHA512: 4c9c6fabfa53eb21efae6894c60014d9cce0e56db84d92c79243caa4d56d723f25dffef27a9374705b936f42698b432e7a6ecd84d3e6f5fb18d8d215f387d0d5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3412
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0_iphoneos-arm64_d0867a375b51d581400cb8583d2c0e4ea7d796fcf31a6a99333b6981d1a8cd35.deb
+Size: 669470
+MD5sum: b1eb8441e510ca04335b1b1a3c446cc9
+SHA1: bf9f90d2dd38919fcf13fe8379b5dd639e3581db
+SHA256: d0867a375b51d581400cb8583d2c0e4ea7d796fcf31a6a99333b6981d1a8cd35
+SHA512: e6e56f6eb63f78dba1b1b10e1409ca18ce4bf23c9cccb67c7d4c4dcd320f91d7de840c5b77cd0c83dbccac0990a59defffc111c09792d2d6f742d161de42c0a5
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3416
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-1_iphoneos-arm64_9bc978b166479d9b02ce5f99b82760ca7524352cb0a674c87a940e8c527011f7.deb
+Size: 669376
+MD5sum: 6b528a841a628b8070aa4703c3ad0b5d
+SHA1: 9b0339096c005c5b1917af904ac0b128a82730c5
+SHA256: 9bc978b166479d9b02ce5f99b82760ca7524352cb0a674c87a940e8c527011f7
+SHA512: d7109d3afb83787f18493828ad3b7624dcb63fc83bc74002b62b12e7fce7020783196518d70cbf27fae457ffdf49ed463042168b99f482b6d8f8e514c85322ee
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64_aa56426a483cd13eaef30bc5a1cdea43bc67e12fcf485d688023958c0142bef7.deb
+Size: 668856
+MD5sum: b5666c99d1052c12cf401b8f37565832
+SHA1: 0845d40680eac060b240169a6d023f91d28f6be7
+SHA256: aa56426a483cd13eaef30bc5a1cdea43bc67e12fcf485d688023958c0142bef7
+SHA512: 032a68c9ed2bc9febae58dbfce388b778367c1fa8736badbf126ec433401f241bcdb493caaa272b0dc19bd11c304cc63b7fb6a686e7f87ff19d6b6c60e7d0ad7
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64_360b7e24ca1464c5348810ce207517f0d9e4e32d91c295120e92a4fa6afc2272.deb
+Size: 669584
+MD5sum: e03f5ee5357544402aac0d5c7a50a4f3
+SHA1: ed3ad9bc48223d1ee0ab54a4aa3cfaf85add4e01
+SHA256: 360b7e24ca1464c5348810ce207517f0d9e4e32d91c295120e92a4fa6afc2272
+SHA512: 03d9c8301c8fdd71bc2a00c4e3db6eb4ebd71a18c86c236c276b24d0e751298588ee048ca96fa50d15492c341f2447c5f67bc91a62ac6d65aa717d99ddd97243
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3388
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64_94bd627705eb36b104a54c1a8ae3a043fddf457539e6edf791f8749b5959836e.deb
+Size: 668760
+MD5sum: 948c7466af4c49f2f411504328fd5470
+SHA1: b83dcce1037682d7495d9b8e5bda2bb97fdd65ed
+SHA256: 94bd627705eb36b104a54c1a8ae3a043fddf457539e6edf791f8749b5959836e
+SHA512: 992d69d4f634c7824b2355ebcb04d16eddf9c4dd10b53be8416bfb2cd013092245d882f275904f130c29fc98b218a07c5381f24fe88bb0e50a99cec9e00ba489
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64_bdc3088bdd8fd39a11442fbc03c359f9df4eadb515c058c9cba36f6445b97783.deb
+Size: 670492
+MD5sum: 066012dbbe909058df7d1ff0c0b7ad45
+SHA1: 7fe59d79f01fe42a44c56544e70ff574a9e0f92d
+SHA256: bdc3088bdd8fd39a11442fbc03c359f9df4eadb515c058c9cba36f6445b97783
+SHA512: 1ac13163efab2d5f151a366d3962a9314ded9c230f4ec1dabd35f05c5145a3419b9b09f79da0b359f3f1a7f8e8246a93aa207b55948d2e0086e9f2181b044a91
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64_ca4e82975faff2e1baf6bc4d2ebc0221053d06364c2e13b279190f3553c2431e.deb
+Size: 669484
+MD5sum: f31f0e23f6cbf4e2c7958d3affeb819d
+SHA1: 8ca3955b51745eb65a12cc2a0ea3a64bfa8463b6
+SHA256: ca4e82975faff2e1baf6bc4d2ebc0221053d06364c2e13b279190f3553c2431e
+SHA512: 7790794dc92fb339c81775748e5be4a7a4d5fa8e2bf32067c581af1979f3feee8ce76e249e713d7188a5ff84d6d7d97f883bb62091687525430b9226510c428b
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+
+Package: com.be-huge.floating-view-free
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view-free_1.6.0-6_iphoneos-arm64_0ceb6cdcba46c227384fea6f4b782cffa0a48aa5e644bdd822eedda16b03570d.deb
+Size: 660660
+MD5sum: e27c81eddde605c506554a0f8181f4ad
+SHA1: f9df3f6147237ef3515ddad436e6241f23f36152
+SHA256: 0ceb6cdcba46c227384fea6f4b782cffa0a48aa5e644bdd822eedda16b03570d
+SHA512: bdf495b0faf2aa1c33816e4b4794cf79a89cb5ec4b0732116e98a93a5b2150eb8f3ed9d8e638baa16c712976c3d67255bb7abdb47f45335a4fa9274e3a577885
+Description: 移除设备验证，免费使用，分屏，不必太复杂，一切从简即可。
+Name: floatingView Free
+Author: be-huge
